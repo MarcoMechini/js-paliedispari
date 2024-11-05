@@ -18,11 +18,7 @@ console.log('User', userNumber);
 //BUSINES LOGIC
 let result = oddEven(userNumber, pcNumber)
 
-if (userOddEven === result) {
-    console.log('Hai vinto');
-} else {
-    console.log('Hai perso');
-}
+userOddEven === result ? console.log('Hai vinto') : console.log('Hai perso');
 
 //FUNCTION
 
