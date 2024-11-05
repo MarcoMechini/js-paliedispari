@@ -47,7 +47,6 @@ function randomNumber(min, max) {
 function oddEven(userNumber, pcNumber) {
 
     let numFin = userNumber + pcNumber;
-    let flag;
 
     if (numFin % 2 === 0) {
         return 'pari';
