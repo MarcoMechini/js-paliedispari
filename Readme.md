@@ -13,5 +13,5 @@ chiedere all'utente se pari o dispari
 chiedere all'utente di scegliere un numero tra 1 e 5 
 generare un numero da 1 a 5 per il pc
 
-sommare i due numeri se il numero 
+sommare i due numeri
 stabilire se la somma dei due numeri è pari o dispari e dire chi ha vinto
